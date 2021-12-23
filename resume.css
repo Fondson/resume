@@ -122,6 +122,10 @@ p {
     font-style: italic;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .small-title {
     margin-bottom: 4px;
 }
